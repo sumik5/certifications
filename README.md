@@ -38,6 +38,7 @@
 | 2024/12  | Google Cloud Certified Professional Cloud Architect   |     |
 | 2024/12  | Google Cloud Certified Professional Cloud Developer   |     |
 | 2025/4   | Professional Scrum Master™ I (PSM I) | |
+| 2025/12  | Generative AI Leader Certification | |
 
 
 # 取得資格一覧（その他）
