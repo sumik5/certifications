@@ -25,7 +25,7 @@
 | 2019/3  | AWS Certified SysOps Administrator – Associate | 失効  |
 | 2022/9  | BTA Certified Blockchain Business Foundations    |     |
 | 2022/9  | BTA Certified Blockchain Developer - Ethereum    |     |
-| 2023/1  | Google Cloud Certified Associate Cloud Engineer   |     |
+| 2023/1  | Google Cloud Certified Associate Cloud Engineer   |  2026/01 更新   |
 | 2023/11 | Python3エンジニア認定試験（基礎）                             |     |
 | 2024/1  | データサイエンティスト検定 リテラシーレベル 2023                      |     |
 | 2024/3  | AWS Certified Solutions Architect – Associate(SAA-C03)     | 再取得 |
